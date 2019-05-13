@@ -1,0 +1,11 @@
+/* LICENCE: ./VAG-HandWritten/VAGDesign Font License.txt */
+
+@font-face {
+    font-family:"VAG-HandWritten";
+    font-weight:normal;
+    src:url("./VAG-HandWritten.otf") format("opentype");
+	}
+
+.VAG-HandWritten,
+.VAGHandWritten,
+.HandWritten {font-family:"VAG-HandWritten";}
