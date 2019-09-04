@@ -10,3 +10,7 @@
 	font-weight: 700;
 	font-style: normal;
 	}
+
+
+.fontFiraCode,.FiraCode{font-family:"Fira Code";font-weight:400}
+.fontFiraCodeBold,.FiraCodeBold{font-family:"Fira Code";font-weight:700}
