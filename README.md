@@ -1,2 +1,2 @@
 kapad at github
-https://gkapad.github.io/gkapad
+https://gkapad.github.io/kapad
